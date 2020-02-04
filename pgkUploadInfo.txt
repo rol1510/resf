@@ -2,4 +2,3 @@ Tutorial is here: https://packaging.python.org/tutorials/packaging-projects/
 
 build pgk:  py setup.py sdist bdist_wheel
 upload:     py -m twine upload dist/*
-    Enter credentials pypi account
