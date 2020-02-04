@@ -1,4 +1,3 @@
-***
 # resf - Result Formatter
 
 A simple package for displaying calculation results in a textbased table
@@ -34,4 +33,3 @@ Output 1
 
 ***
 Uses [tabulate](https://pypi.org/project/tabulate/) to generate the table
-***
