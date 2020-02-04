@@ -25,11 +25,11 @@ printRes()
 Output 1
 ```
  +-----------------+----------------+
- | Name            | Value [Unit]   |
- |-----------------+----------------|
- | Foo             | 15.00 V        |
- | 5 digits of Bar | 9.46154        |
- +-----------------+----------------+
+ | Name            | Value [Unit]   |
+ |-----------------+----------------|
+ | Foo             | 15.00 V        |
+ | 5 digits of Bar | 9.46154        |
+ +-----------------+----------------+
 ```
 ***
 Uses [tabulate](https://pypi.org/project/tabulate/) to generate the table
