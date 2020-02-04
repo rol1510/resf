@@ -1,7 +1,13 @@
 # resf - Result Formatter
 
 A simple package for displaying calculation results in a textbased table
-***
+
+## Install
+```
+pip install resf
+```
+[pypi page](https://pypi.org/project/resf/)
+
 ## How to use
 Basics
 ```python
