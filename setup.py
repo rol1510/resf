@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="resf-rol1510",
-    version="0.0.1",
+    name="resf",
+    version="0.1.1",
     author="Roland Strasser",
     author_email="roland1510s@gmail.com",
     description="A simple package for displaying calculation results in a textbased table",
