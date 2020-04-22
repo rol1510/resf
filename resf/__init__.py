@@ -1,1 +1,1 @@
-from .resf import initRes, addRes, printRes
+from .resf import initRes, addRes, addEmpty, printRes
